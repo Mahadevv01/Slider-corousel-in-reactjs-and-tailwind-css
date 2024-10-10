@@ -1,8 +1,17 @@
-# Learn How to create Carousel slider in tailwind css and react js
-# Youtube Link:
-https://www.youtube.com/watch?v=GguJODC2cvI
 
-[![Watch the video](https://img.youtube.com/vi/GguJODC2cvI/hqdefault.jpg)](https://www.youtube.com/embed/GguJODC2cvI)
+# React Carousel Slider with Tailwind CSS
 
-# Demo Link:
-https://ayyaztech.github.io/create-carousel-slider-in-Tailwind-css-and-React-js
+This project demonstrates how to create a responsive carousel slider in React using Tailwind CSS for styling. The slider will allow users to navigate through images by clicking on navigation arrows or dots.
+
+## Features
+- Responsive design with Tailwind CSS.
+- Smooth transitions between slides.
+- Navigation through arrows and pagination dots.
+- Auto-slide feature with a timer.
+
+## Prerequisites
+- Node.js installed
+- npm or yarn package manager
+
+
+
