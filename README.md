@@ -31,5 +31,21 @@ Before starting, ensure you have the following installed:
 - **npm** or **yarn** (package manager)
 
 ---
+## 📂 Project Structure
 
+```plaintext
+react-carousel-slider/
+├── public/
+│   ├── index.html         # Main HTML file
+├── src/
+│   ├── components/
+│   │   ├── Carousel.js    # Main Carousel component
+│   │   ├── Slide.js       # Individual Slide component
+│   │   ├── Arrow.js       # Left and Right navigation arrows
+│   │   ├── Pagination.js  # Dots for pagination
+│   ├── App.js             # Application entry point
+│   ├── index.css          # Tailwind CSS styles
+│   ├── main.js            # Renders the React app
+├── tailwind.config.js     # Tailwind CSS configuration
+├── package.json           # Dependencies and project scripts
 
